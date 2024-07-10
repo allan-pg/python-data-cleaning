@@ -1,4 +1,4 @@
-# python data cleaning
+# Fifa data cleaning in python
 ![image](https://github.com/allan-pg/python-data-cleaning/assets/62595869/5a6e1601-5637-4805-bf71-1d6e2f6012f0)
 
 ## Introduction
