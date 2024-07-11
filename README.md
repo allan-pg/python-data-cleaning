@@ -8,6 +8,12 @@
 
 ## 1.0 Introduction
 In this project, I discuss various useful techniques to clean a messy dataset with Python, NumPy and Pandas.
+import all the necessary libraries needed to clean data
+```
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+```
 ## 1.1 Quick glimpse at your data
 ```
 df.head
